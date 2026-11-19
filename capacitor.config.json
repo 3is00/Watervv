@@ -1,0 +1,6 @@
+{
+  "appId": "com.myself.waterreminder",
+  "appName": "مَيّة",
+  "webDir": "www",
+  "android": { "backgroundColor": "#06202b" }
+}
